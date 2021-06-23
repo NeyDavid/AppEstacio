@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "675527842965",
+    "project_id": "appestacio",
+    "storage_bucket": "appestacio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675527842965:android:7ede6d2a3e5f33feb3cf9c",
+        "android_client_info": {
+          "package_name": "com.example.estacioapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "675527842965-ghnrm80gde74g8efl921qjcko3a9pb96.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.estacioapp",
+            "certificate_hash": "b78c210ba0002383a753d21f2eeebc9d421322e2"
+          }
+        },
+        {
+          "client_id": "675527842965-kqkvmm02rcf6pvlq0imms002vttjc39j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg5OcW04TFMGBWH0C3AeT1HokZcde92co"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "675527842965-kqkvmm02rcf6pvlq0imms002vttjc39j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
